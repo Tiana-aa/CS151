@@ -1,0 +1,26 @@
+Sum of two distinct numbers that equals 13.
+{4,9}, {5,8}, {7,6}
+
+Product of two distinct numbers that equals 24.
+{3,8}, {4,6}
+
+Product of two distinct numbers that equals 8.
+{4,2}, {1,8}
+
+Sum of two distinct numbers that equals 10.
+{1,9}, {2,8}, {3,7}, {4,6}, {5,5}
+
+Product of three distinct numbers that equals 30.
+{5,2,3}
+
+Product of three numbers that equals 162 with at most one number repeated.
+{9,9,2}
+
+Product of three numbers that equals 392 with at most one number repeated.
+{7,7,8}
+
+Sum of three numbers that equals 17 with at most one number repeated.
+{4,4,9}, {5,5,7}, {6,6,5}, {7,7,3}, {8,8,1}
+
+Product of four numbers that equals 540 with at most one number repeated.\
+{6,6,5,3}
